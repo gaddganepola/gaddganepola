@@ -1,4 +1,3 @@
-
 # Hi there 👋, I'm Dinethra Dayan  
 
 🚀 **Software Engineer | Full-Stack Developer | AI/ML Enthusiast**  
@@ -17,11 +16,27 @@ I’m a motivated **BSc. (Hons) Computer Science undergraduate** (First Class Ho
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Java, PHP, Python, HTML, CSS  
-- **Frameworks**: Spring Boot, Laravel  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools & Platforms**: GitHub, Docker, AWS  
-- **Special Interests**: AI & Machine Learning  
+
+### 🚀 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### ⚙️ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+### 🤖 Interests  
+![AI/ML](https://img.shields.io/badge/AI%2FML-%2300C4CC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
 ---
 
