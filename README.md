@@ -1,68 +1,117 @@
-# Hi there 👋, I'm Dinethra Dayan  
+<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2JtdHNwZTdhc3UxMnJtZ2JzdHpkNXVnZHphMWs4NGRmMTVhZmN4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/200w.gif"  />
 
-🚀 **Software Engineer | Full-Stack Developer | AI/ML Enthusiast**  
+###
 
-I’m a motivated **BSc. (Hons) Computer Science undergraduate** (First Class Honors) from the University of Kelaniya, Sri Lanka, with **6+ months industry experience** as a Junior Full Stack Developer. Passionate about building scalable web applications and backend systems with **Java Spring Boot** and exploring **AI/ML applications**.  
+<div align="center">
+  <a href="http://www.linkedin.com/in/dinethra-dayan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@dinethradayan1443" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="dinethradayan00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="ganepol-ps19036@stu.kln.ac.lk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://wa.me/94758009265" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🔹 About Me  
-- 🌱 Currently learning **Spring Boot, Microservices, and Cloud Technologies**.  
-- 💼 Previously worked as **Junior Software Engineer @ Keen Rabbits Pvt (Ltd)**.  
-- 🎯 Interested in **backend development, REST APIs, and AI/ML research**.  
-- 🏆 Qualified for **Microsoft Imagine Cup 2024**.  
-- 📜 Certified in **AWS Cloud Quest: Cloud Practitioner**.  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gaddganepola.gaddganepola&"  />
+</div>
 
----
+###
 
-## 🛠️ Tech Stack  
+<h1 align="center">hey there 👋</h1>
 
-### 🚀 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+###
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+<h3 align="left">👩‍💻  About Me</h3>
 
-### ⚙️ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+###
 
-### 🤖 Interests  
-![AI/ML](https://img.shields.io/badge/AI%2FML-%2300C4CC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+<h6 align="left">Hi there 👋, I'm Dinethra Dayan  <br><br>🚀 Software Engineer | Back-End Engineer  <br><br>I’m a motivated BSc. (Hons) Computer Science undergraduate from the University of Kelaniya, Sri Lanka, with 6+ months industry experience as a Junior Software Engineer. Passionate about building scalable web applications and backend systems with Java Spring Boot and Laravel.  <br><br>- 🌱 Currently learning Spring Boot, Microservices, and Cloud Technologies.  <br>- 💼 Previously worked as Junior Software Engineer @ Keen Rabbits Pvt (Ltd).  <br>- 🎯 Interested in backend development, and REST APIs.    <br>- 📜 Certified in AWS Cloud Quest: Cloud Practitioner.</h6>
 
----
+###
 
-## 📌 Projects  
-Here are some of my highlighted projects:  
+<h3 align="left">🛠 Language and tools</h3>
 
-- [📚 Library Management System](https://github.com/gaddganepola/Simple-Library-App) – Backend with Spring Boot, CRUD, REST APIs.  
-- [💼 Job Posting Application](https://github.com/gaddganepola/Job-App-Spring-Security) – Secured APIs with Spring Security.  
-- [✅ Task Tracker Application](https://github.com/gaddganepola/Task-Tracker-Spring-Boot) – Advanced task management APIs.  
-- [🎥 Reelook (Private Social Media Platform)](https://reelook.me) – Content sharing & reporting system.  
-- [🏠 Danveem (Property Ads Platform)](https://danveem.lk) – Custom advertisement status feature.  
-- [🏗️ Lassana Gedara (Construction Quotation System)](https://www.lassanagedara.com) – Quotation management with role-based access.  
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
-## 📊 GitHub Stats  
-![Dinethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaddganepola&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddganepola&layout=compact&theme=radical)  
+###
 
----
+<h3 align="left">🔥   My Stats :</h3>
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dinethra-dayan)  
-- 📧 [Email](mailto:dinethradayan00@gmail.com)  
-- 🌐 [GitHub](https://github.com/gaddganepola)  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaddganepola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaddganepola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gaddganepola&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=gaddganepola&theme=nord&no-frame=false&no-bg=false&column=9&row=2&margin-w=3&margin-h=2" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaddganepola&area=false&theme=dracula" height="150" alt="activity-graph graph"  />
+</div>
 
-⭐️ From [Dinethra Dayan](https://github.com/gaddganepola)  
+###
