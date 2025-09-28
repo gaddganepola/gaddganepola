@@ -36,7 +36,7 @@
 
 ###
 
-<h6 align="left">Hi there 👋, I'm <strong>Dinethra Dayan</strong>  <br><br>🚀 Software Engineer | Back-End Engineer  <br><br>I’m a motivated BSc. (Hons) Computer Science undergraduate from the University of Kelaniya, Sri Lanka, with 6+ months industry experience as a Junior Software Engineer. Passionate about building scalable web applications and backend systems with Java Spring Boot and Laravel.  <br><br>- 🌱 Currently learning Spring Boot, Microservices, and Cloud Technologies.  <br>- 💼 Previously worked as Junior Software Engineer @ Keen Rabbits Pvt (Ltd).  <br>- 🎯 Interested in backend development, and REST APIs.    <br>- 📜 Certified in AWS Cloud Quest: Cloud Practitioner.</h6>
+<h6 align="left">Hi there 👋, I'm **Dinethra Dayan**  <br><br>🚀 Software Engineer | Back-End Engineer  <br><br>I’m a motivated BSc. (Hons) Computer Science undergraduate from the University of Kelaniya, Sri Lanka, with 6+ months industry experience as a Junior Software Engineer. Passionate about building scalable web applications and backend systems with Java Spring Boot and Laravel.  <br><br>- 🌱 Currently learning Spring Boot, Microservices, and Cloud Technologies.  <br>- 💼 Previously worked as Junior Software Engineer @ Keen Rabbits Pvt (Ltd).  <br>- 🎯 Interested in backend development, and REST APIs.    <br>- 📜 Certified in AWS Cloud Quest: Cloud Practitioner.</h6>
 
 ###
 
